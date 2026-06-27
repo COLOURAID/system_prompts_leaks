@@ -1,0 +1,14 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Package lock files
+package-lock.json
+
+# Vite cache
+.vite/
+
+```
